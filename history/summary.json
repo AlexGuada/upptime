@@ -4,19 +4,19 @@
     "url": "$AXG_DE1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "axg-de-1",
-    "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
-    "time": 1288,
-    "timeDay": 1288,
-    "timeWeek": 1288,
-    "timeMonth": 1288,
-    "timeYear": 1288,
+    "status": "up",
+    "uptime": "8.13%",
+    "uptimeDay": "8.13%",
+    "uptimeWeek": "8.13%",
+    "uptimeMonth": "8.13%",
+    "uptimeYear": "8.13%",
+    "time": 1176,
+    "timeDay": 1176,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {
-      "2021-05-30": 0
+      "2021-05-30": 236
     }
   },
   {
@@ -24,6 +24,26 @@
     "url": "$AXG_DE2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "axg-de-2",
+    "status": "up",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 752,
+    "timeDay": 752,
+    "timeWeek": 752,
+    "timeMonth": 752,
+    "timeYear": 752,
+    "dailyMinutesDown": {
+      "2021-05-30": 257
+    }
+  },
+  {
+    "name": "AXG-FR1",
+    "url": "$AXG_FR1",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "axg-fr-1",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -36,27 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-30": 21
-    }
-  },
-  {
-    "name": "AXG-FR1",
-    "url": "$AXG_FR1",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "axg-fr-1",
-    "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-05-30": 21
+      "2021-05-30": 257
     }
   }
 ]
