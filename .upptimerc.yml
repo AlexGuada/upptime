@@ -3,11 +3,11 @@ owner: AlexGuada # GitHub username
 repo: upptime # GitHub repository
 
 sites:
-  - name: AXG-DE1
+  - name: Web Server (AXG-DE1)
     url: $AXG_DE1
-  - name: AXG-DE2
+  - name: Backend Server (AXG-DE2)
     url: $AXG_DE2
-  - name: AXG-FR1
+  - name: TeamSpeak Server (AXG-FR1)
     url: $AXG_FR1
 
 status-website:
