@@ -4,11 +4,11 @@ repo: upptime # GitHub repository
 
 sites:
   - name: AXG-DE1
-    url: de1.alexguada.it
+    url: $AXG_DE1
   - name: AXG-DE2
-    url: de2.alexguada.it
+    url: $AXG_DE2
   - name: AXG-FR1
-    url: fr1.alexguada.it
+    url: $AXG_FR1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
