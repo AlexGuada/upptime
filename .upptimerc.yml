@@ -4,7 +4,7 @@ repo: upptime # GitHub repository
 
 sites:
   - name: AXG-DE1
-    url: $AXG_DE1
+    url: de1.alexguada.it
   - name: AXG-DE2
     url: $AXG_DE2
   - name: AXG-FR1
