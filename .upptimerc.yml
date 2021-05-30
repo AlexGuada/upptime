@@ -3,11 +3,11 @@ owner: AlexGuada # GitHub username
 repo: upptime # GitHub repository
 
 sites:
-  - name: Web Server (AXG-DE1)
+  - name: Web (AXG-DE1)
     url: $AXG_DE1
-  - name: Backend Server (AXG-DE2)
+  - name: Web (AXG-DE2)
     url: $AXG_DE2
-  - name: TeamSpeak Server (AXG-FR1)
+  - name: TeamSpeak (AXG-FR1)
     url: $AXG_FR1
 
 status-website:
@@ -17,7 +17,7 @@ status-website:
   #baseUrl: /upptime
   theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: AXG Network by Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
