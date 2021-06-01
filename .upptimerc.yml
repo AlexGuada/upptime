@@ -7,6 +7,8 @@ sites:
     url: $AXG_DE1
   - name: Web (AXG-DE2)
     url: $AXG_DE2
+  - name: Web (AXG-UK1)
+    url: $AXG_UK1
   - name: TeamSpeak (AXG-FR1)
     url: $AXG_FR1
 
