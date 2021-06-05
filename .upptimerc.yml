@@ -15,14 +15,15 @@ sites:
 
 
 status-website:
+  name: AXG Network
   cname: sts.alessio-guadagno.it
   theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: AXG Network
+  favicon: https://alessio-guadagno.it/favicon.ico
   introTitle: "**AXG Netowrk Status** powered by [Upptime](https://github.com/upptime/upptime)"
   #introMessage:
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO 
+  #navbar:
+    #- title: Status
+      #href: /
+    #- title: GitHub
+      #href: https://github.com/$OWNER/$REPO 
