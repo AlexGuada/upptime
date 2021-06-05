@@ -5,10 +5,13 @@ repo: upptime # GitHub repository
 sites:
   - name: AXG-DE1
     url: $AXG_DE1
+    icon: https://alessio-guadagno.it/favicon.ico
   - name: AXG-FR1 (TS)
     url: $AXG_FR1
+    icon: https://alessio-guadagno.it/favicon.ico
   - name: AXG-UK1
     url: $AXG_UK1
+    icon: https://alessio-guadagno.it/favicon.ico
 
 
 status-website:
