@@ -5,10 +5,11 @@ repo: upptime # GitHub repository
 sites:
   - name: AXG-DE1
     url: $AXG_DE1
+  - name: AXG-FR1 (TS)
+    url: $AXG_FR1
   - name: AXG-UK1
     url: $AXG_UK1
-  - name: TeamSpeak (AXG-FR1)
-    url: $AXG_FR1
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
