@@ -22,19 +22,19 @@
     "url": "$AXG_FR1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-fr-1-ts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 446,
-    "timeWeek": 637,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 681,
+    "timeDay": 634,
+    "timeWeek": 660,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {
-      "2021-06-28": 0
+      "2021-06-28": 13
     }
   },
   {
