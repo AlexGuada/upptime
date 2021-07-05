@@ -4,19 +4,19 @@
     "url": "$AXG_DE1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "92.65%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1262,
     "timeDay": 1279,
     "timeWeek": 1391,
     "timeMonth": 1299,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2021-07-05": 106
+      "2021-07-05": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$AXG_FR1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-fr-1-ts",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "92.65%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 707,
     "timeDay": 697,
     "timeWeek": 791,
     "timeMonth": 747,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2021-07-05": 106
+      "2021-07-05": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$AXG_UK1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-uk-1",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "92.64%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 675,
     "timeDay": 643,
     "timeWeek": 767,
     "timeMonth": 723,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2021-07-05": 106
+      "2021-07-05": 0
     }
   }
 ]
