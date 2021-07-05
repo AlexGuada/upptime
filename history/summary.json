@@ -4,19 +4,19 @@
     "url": "$AXG_DE1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1251,
-    "timeDay": 850,
-    "timeWeek": 1378,
-    "timeMonth": 1286,
-    "timeYear": 1251,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1256,
+    "timeDay": 1158,
+    "timeWeek": 1389,
+    "timeMonth": 1292,
+    "timeYear": 1256,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$AXG_FR1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-fr-1-ts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 563,
-    "timeWeek": 810,
-    "timeMonth": 748,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 706,
+    "timeDay": 671,
+    "timeWeek": 807,
+    "timeMonth": 749,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 18
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$AXG_UK1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-uk-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 443,
-    "timeWeek": 791,
-    "timeMonth": 724,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 671,
+    "timeDay": 547,
+    "timeWeek": 774,
+    "timeMonth": 722,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 18
     }
   }
 ]
