@@ -5,38 +5,38 @@
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1256,
-    "timeDay": 1158,
-    "timeWeek": 1389,
+    "uptime": "99.78%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1257,
+    "timeDay": 1206,
+    "timeWeek": 1379,
     "timeMonth": 1292,
-    "timeYear": 1256,
+    "timeYear": 1257,
     "dailyMinutesDown": {
-      "2021-07-05": 18
+      "2021-07-05": 94
     }
   },
   {
-    "name": "AXG-FR1 (TS)",
+    "name": "AXG-FR1(TS)",
     "url": "$AXG_FR1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-fr-1-ts",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 706,
-    "timeDay": 671,
-    "timeWeek": 807,
-    "timeMonth": 749,
-    "timeYear": 706,
+    "uptime": "99.78%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 708,
+    "timeDay": 707,
+    "timeWeek": 804,
+    "timeMonth": 750,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2021-07-05": 18
+      "2021-07-05": 94
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-uk-1",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 671,
-    "timeDay": 547,
-    "timeWeek": 774,
-    "timeMonth": 722,
-    "timeYear": 671,
+    "uptime": "99.78%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 673,
+    "timeDay": 611,
+    "timeWeek": 770,
+    "timeMonth": 723,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2021-07-05": 18
+      "2021-07-05": 94
     }
   }
 ]
