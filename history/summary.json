@@ -5,19 +5,17 @@
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
-    "time": 1212,
-    "timeDay": 954,
-    "timeWeek": 1131,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1207,
+    "timeDay": 956,
+    "timeWeek": 1092,
     "timeMonth": 1223,
-    "timeYear": 1212,
-    "dailyMinutesDown": {
-      "2021-07-06": 42
-    }
+    "timeYear": 1207,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AXG-FR1 (TS)",
@@ -25,19 +23,17 @@
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-fr-1-ts",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.88%",
-    "time": 673,
-    "timeDay": 361,
-    "timeWeek": 610,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 670,
+    "timeDay": 549,
+    "timeWeek": 590,
     "timeMonth": 709,
-    "timeYear": 673,
-    "dailyMinutesDown": {
-      "2021-07-06": 58
-    }
+    "timeYear": 670,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AXG-UK1",
@@ -45,18 +41,16 @@
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-uk-1",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.88%",
-    "time": 643,
-    "timeDay": 406,
-    "timeWeek": 601,
-    "timeMonth": 680,
-    "timeYear": 643,
-    "dailyMinutesDown": {
-      "2021-07-06": 58
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 639,
+    "timeDay": 456,
+    "timeWeek": 566,
+    "timeMonth": 677,
+    "timeYear": 639,
+    "dailyMinutesDown": {}
   }
 ]
