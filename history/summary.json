@@ -4,10 +4,10 @@
     "url": "$AXG_DE1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1259,
@@ -15,17 +15,19 @@
     "timeWeek": 1136,
     "timeMonth": 1326,
     "timeYear": 1259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "AXG-FR1 (TS)",
     "url": "$AXG_FR1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-fr-1-ts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 716,
@@ -33,16 +35,18 @@
     "timeWeek": 710,
     "timeMonth": 805,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "AXG-UK1",
     "url": "$AXG_UK1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-uk-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 556,
     "timeMonth": 651,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 0
+    }
   }
 ]
