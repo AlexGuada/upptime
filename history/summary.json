@@ -4,19 +4,19 @@
     "url": "$AXG_DE1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1306,
-    "timeDay": 1539,
-    "timeWeek": 1328,
-    "timeMonth": 1643,
-    "timeYear": 1306,
+    "time": 1307,
+    "timeDay": 1512,
+    "timeWeek": 1348,
+    "timeMonth": 1638,
+    "timeYear": 1307,
     "dailyMinutesDown": {
-      "2022-02-13": 0
+      "2022-02-13": 8
     }
   },
   {
