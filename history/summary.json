@@ -4,18 +4,20 @@
     "url": "$AXG_DE1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1307,
     "timeDay": 844,
-    "timeWeek": 1337,
+    "timeWeek": 1316,
     "timeMonth": 1679,
     "timeYear": 1307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "AXG-FR1 (TS)",
