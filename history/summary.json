@@ -6,9 +6,9 @@
     "slug": "axg-de-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1312,
     "timeDay": 1783,
@@ -16,6 +16,7 @@
     "timeMonth": 1349,
     "timeYear": 1312,
     "dailyMinutesDown": {
+      "2022-03-03": 2,
       "2022-02-20": 15
     }
   },
