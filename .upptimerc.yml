@@ -6,7 +6,7 @@ sites:
   - name: AXG-DE1
     url: $AXG_DE1
     icon: https://alessio-guadagno.it/favicon.ico
-  - name: AXG-FR1 (TS)
+  - name: AXG-FR1
     url: $AXG_FR1
     icon: https://alessio-guadagno.it/favicon.ico
   - name: AXG-UK1
