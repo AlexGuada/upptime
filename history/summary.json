@@ -6,18 +6,16 @@
     "slug": "axg-de-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 1080,
-    "timeWeek": 1261,
+    "time": 1304,
+    "timeDay": 1055,
+    "timeWeek": 1249,
     "timeMonth": 1266,
-    "timeYear": 1318,
-    "dailyMinutesDown": {
-      "2022-09-20": 12
-    }
+    "timeYear": 1316,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AXG-FR1",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 5185,
-    "timeWeek": 1885,
-    "timeMonth": 1033,
-    "timeYear": 869,
+    "time": 865,
+    "timeDay": 4985,
+    "timeWeek": 1810,
+    "timeMonth": 1032,
+    "timeYear": 865,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 678,
-    "timeWeek": 604,
-    "timeMonth": 558,
-    "timeYear": 547,
+    "time": 559,
+    "timeDay": 395,
+    "timeWeek": 566,
+    "timeMonth": 557,
+    "timeYear": 545,
     "dailyMinutesDown": {}
   }
 ]
