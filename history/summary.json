@@ -25,35 +25,39 @@
     "url": "$AXG_FR1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-fr-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 802,
-    "timeDay": 441,
-    "timeWeek": 617,
-    "timeMonth": 1035,
+    "timeDay": 634,
+    "timeWeek": 643,
+    "timeMonth": 1028,
     "timeYear": 803,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   },
   {
     "name": "AXG-UK1",
     "url": "$AXG_UK1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-uk-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 394,
-    "timeWeek": 472,
-    "timeMonth": 519,
-    "timeYear": 556,
-    "dailyMinutesDown": {}
+    "timeDay": 563,
+    "timeWeek": 505,
+    "timeMonth": 526,
+    "timeYear": 557,
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   }
 ]
