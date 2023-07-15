@@ -1,7 +1,7 @@
 url: $AXG_FR1
-status: down
-code: 429
-responseTime: 715
-lastUpdated: 2023-07-15T00:43:06.679Z
+status: up
+code: 200
+responseTime: 605
+lastUpdated: 2023-07-15T02:19:36.069Z
 startTime: Sun Jul 03 2022 17:33:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
