@@ -1,7 +1,7 @@
 url: $AXG_UK1
-status: down
-code: 429
-responseTime: 804
-lastUpdated: 2023-07-25T23:49:33.690Z
+status: up
+code: 200
+responseTime: 518
+lastUpdated: 2023-07-25T23:55:26.566Z
 startTime: Sat Jun 05 2021 08:30:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
