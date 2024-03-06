@@ -14,7 +14,7 @@ sites:
     icon: https://alessio-guadagno.it/favicon.ico
   - name: AXG-IT1
     url: $AXG_IT1
-    icon: https://alessio-guadagno.it/faviconn.ico
+    icon: https://alessio-guadagno.it/favicon.ico
 
 
 status-website:
