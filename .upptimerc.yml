@@ -10,7 +10,6 @@ sites:
     url: $AXG_UK1
     icon: https://alessio-guadagno.it/favicon.ico
 
-
 status-website:
   name: AXG Network
   cname: sts.alessio-guadagno.it
