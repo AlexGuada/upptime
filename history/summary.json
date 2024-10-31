@@ -6,18 +6,16 @@
     "slug": "axg-de-1",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 2772,
-    "timeWeek": 1706,
-    "timeMonth": 1477,
-    "timeYear": 1248,
-    "dailyMinutesDown": {
-      "2024-10-30": 12
-    }
+    "time": 1239,
+    "timeDay": 3112,
+    "timeWeek": 1703,
+    "timeMonth": 1481,
+    "timeYear": 1249,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AXG-UK1",
@@ -26,17 +24,16 @@
     "slug": "axg-uk-1",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 652,
-    "timeDay": 2793,
-    "timeWeek": 1374,
-    "timeMonth": 986,
-    "timeYear": 690,
+    "time": 653,
+    "timeDay": 2997,
+    "timeWeek": 1376,
+    "timeMonth": 990,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-10-30": 11,
       "2024-05-01": 43
     }
   }
