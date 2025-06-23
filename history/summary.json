@@ -24,17 +24,19 @@
     "url": "$AXG_UK1",
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-uk-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 771,
-    "timeDay": 857,
-    "timeWeek": 942,
-    "timeMonth": 860,
+    "timeDay": 951,
+    "timeWeek": 955,
+    "timeMonth": 866,
     "timeYear": 802,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   }
 ]
