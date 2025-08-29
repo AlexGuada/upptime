@@ -3,10 +3,10 @@ owner: AlexGuada # GitHub username
 repo: upptime # GitHub repository
 
 sites:
-  - name: AXG-DE1
+  - name: AXG-DE1 (Temp)
     url: $AXG_DE1
     icon: https://alessio-guadagno.it/favicon.ico
-  - name: AXG-UK1
+  - name: AXG-UK1 (Temp)
     url: $AXG_UK1
     icon: https://alessio-guadagno.it/favicon.ico
 
