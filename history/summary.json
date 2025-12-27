@@ -5,16 +5,16 @@
     "icon": "https://alessio-guadagno.it/favicon.ico",
     "slug": "axg-de-1",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1277,
-    "timeDay": 1299,
-    "timeWeek": 1168,
-    "timeMonth": 1291,
-    "timeYear": 1273,
+    "time": 1276,
+    "timeDay": 1033,
+    "timeWeek": 1178,
+    "timeMonth": 1285,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2025-08-29": 46
     }
